@@ -1,0 +1,16 @@
+{
+  "name": "a2",
+  "version": "1.0.0",
+  "description": "myServer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Toyin Odofin",
+  "license": "ISC",
+  "dependencies": {
+    "a2": "file:",
+    "express": "^4.21.0"
+  }
+}
